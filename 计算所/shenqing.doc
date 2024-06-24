@@ -1,0 +1,444 @@
+
+
+
+
+
+
+
+
+<style>
+	@media print
+	{
+		#printmytab {page-break-after:always;}
+	}
+	
+	p.MsoNormal, li.MsoNormal, div.MsoNormal {
+	    margin: 0cm;
+	    margin-bottom: .0001pt;
+	    text-align: justify;
+	    text-justify: inter-ideograph;
+	    font-size: 10.5pt;
+	    font-family: "Times New Roman","serif";
+	}
+	
+	table{ border-collapse:collapse;
+	        border:1px solid #ddd;}
+	
+	table td{ 
+	 border:1px solid #ddd;
+	}
+	table th,
+	table td {
+	  font-size:14px;
+	  padding: 4px;
+	  line-height: 20px;
+	  text-align: left;
+	  vertical-align: top;
+	}
+	.FontMinSize{
+	 font-size:12px;
+	 line-height: 20px;
+	 }
+	 
+	pre{font-size: 14px;background: white;border:0;}
+</style>
+
+<body>
+
+<div  id='printmytab'>
+
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class=WordSection1 style='layout-grid:15.6pt'>
+				<!-- 填报信息结果 -->
+				<div class="b-unit-list">
+				<!--页眉-->
+					<p class=MsoNormal align=center style='text-align: center'>
+						<b style='mso-bidi-font-weight: normal'>
+							<span style='font-size: 16.0pt; font-family: 楷体_GB2312'>中国科学院大学
+							<span lang=EN-US>2024</span>年大学生暑期学校申请表<span lang=EN-US><o:p></o:p></span></span>
+						</b>
+					</p>
+					<!-- 夏令营名称、申请号 -->
+					<p class=style26 align=center style='margin-top: 23.4pt; margin-right: 0cm; margin-bottom: 15.6pt; margin-left: 0cm; mso-para-margin-top: 1.5gd; mso-para-margin-right: 0cm; mso-para-margin-bottom: 1.0gd; mso-para-margin-left: 0cm; height: 22px; width: 871px;'>
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>暑期学校名称：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								<span style='mso-spacerun: yes'>&nbsp; </span>
+								<span style='mso-spacerun: yes'>&nbsp;</span>2024年“计算未来”全国大学生计算技术暑期研修班
+								<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;</span>
+							</span>
+						</u>
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>申请号：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+							
+								<span style='mso-spacerun: yes'>&nbsp; </span>
+								<span style='mso-spacerun: yes'>&nbsp;</span>20242003910&nbsp;&nbsp;&nbsp;
+								<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;</span>
+							
+							</span>
+						</u>
+					</p>	
+					
+					<!--结束页眉-->
+				<div align=center>
+					<table class="NewTable" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="td-10" colspan="2">姓名</td>
+								<td class="td-10">
+									王文
+								</td>
+								<td class="td-10">性别</td>
+								<td class="td-15">
+									男
+								</td>
+								<td class="td-15">出生日期</td>
+								<td class="td-20" colspan="2">
+									2002-09-11
+								</td>
+								<td class="td-20" rowspan="4">
+									<img alt="近期照片" width="120" height="160" src="http://zxsq.ucas.ac.cn:80/file/self/imgStr/419c2119b17a4b8bb9d338c0b64a0641" />
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">民族</td>
+								<td>
+									汉族
+								</td>
+								<td>是否住宿</td>
+								<td>
+									是
+									
+								</td>
+								<td>
+									身份证号
+									
+								</td>
+								<td colspan="2">
+									430422200209119018
+									
+								</td>
+								
+							</tr>
+							<tr>
+								<td colspan="2">通信地址</td>
+								<td colspan="3">
+									北京市海淀区北下关街道上园村3号北京交通大学,100044
+								</td>
+								<td>政治面貌</td>
+								<td colspan="2">
+									中国共产主义青年团团员
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本人手机</td>
+								<td colspan="3">
+									13808437449
+								</td>
+								<td>E-mail</td>
+								<td colspan="2">
+									wangwen.great@gmail.com
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">应急联系人及电话</td>
+								<td colspan="3">
+									张外艳,13574816421
+								</td>
+								<td>家庭地址及邮编</td>
+								<td colspan="3">
+									湖南省长沙市长沙县泉塘街道橄榄城,410131
+								</td>
+							</tr>
+							<tr>
+								<td class="td-5" rowspan="7">大学情况</td>
+								<td class="td-15" colspan="2">所在学校</td>
+								<td class="td-25" colspan="2">
+									
+										北京交通大学
+									
+									
+								</td>
+								<td class="td-15">学院</td>
+								<td class="td-10">
+									软件学院
+								</td>
+								<td class="td-10">系</td>
+								<td class="td-10">
+									软件学院
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在班级（基地班等）</td>
+								<td colspan="3">
+									2104
+								</td>
+								<td>所学专业</td>
+								<td colspan="3">
+									
+										软件工程
+									
+									
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学制</td>
+								<td colspan="3">
+									
+										4
+									
+									
+								</td>
+								<td>预计毕业年月</td>
+								<td colspan="3">
+									2025年07月
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本科入学时间</td>
+								<td colspan="3">
+									2021-09-01
+								</td>
+								<td>英语级别及分数</td>
+								<td colspan="3">
+									
+                 				        CET6
+                 				    
+                 				    
+									,512.0
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">辅导员姓名</td>
+								<td colspan="3">
+									童雪
+								</td> 
+								<td>辅导员电话</td>
+								<td colspan="3">
+									18813090710
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在年级（专业）人数</td>
+								<td colspan="3">
+									173
+								</td> 
+								<td>年级（专业）排名</td>
+								<td colspan="3">
+									4
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学生干部或社团组织</td>
+								<td colspan="6">
+									学习委员
+								</td> 
+							</tr>
+							<tr>
+								<td class="td-r1">个人简历（从高中阶段起）</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>我是王文，来自北京交通大学软件学院。在本科学习期间，我的前五个学期平均成绩为90.8/100，年级排名第4/173。在所有基础数学课程中，我都以接近满分的成绩通过。其中微积分(B)Ⅰ 99分，微积分(B)Ⅱ 100分、几何与代数 97分、概率论与数理统计(B) 98分等。在专业课程方面，我也有着出色的表现：数据结构 90分，计算机组成原理 95分，计算机网络 93分，操作系统 91分等。课外，我获得了全国大学生数学竞赛非数学专业组一等奖、2024年美赛H奖、全国大学生软件创新区域赛二等奖、CCF CSP考核，取得340分（累计排名前1.98%），并获得2023年蓝桥杯省赛C++A组二等奖等。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>本科期间获奖情况</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>2023年荣获第十四届全国大学生数学竞赛一等奖；2023年荣获第十四届蓝桥杯北京赛区C/C++大学A组二等奖；第十七届全国软件创新大赛华北赛区二等奖；CCF CSP考试340分（累计前1.98%）；2022年荣获校三好学生、巴州永辉奖学金；2023年荣获思源时代奖学金、一等学习奖学金以及校三好学生。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>爱好及特长</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>爱好：喜欢运动和听音乐，平时会健身增强体魄。
+特长：乐观积极，开放，易交朋友。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>申请理由</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>在2024年1月至2024年5月，我在中国科学院自动化研究所多模态人工智能国家重点实验室参与科研项目——基于视觉语言指导的局部图像质量评估算法研究。现有的大部分的 Image Qaulity Assessment(IQA)工作都是基于全局图片进行打分，缺乏针对图中局部物体 进行打分，对此我们提出了多模态模型Seagull和多模态IQA数据集Seagull-345w。期间，我与组内师兄合作撰写了一篇科研论文，计划投稿至CVPR2025。
+在2023年2月至2024年4月，完成大创——“基于 Transformer 和伪标签选择的深度标签传播算法”，设计了ViLP 框架，特征嵌入模块使用基于 Transformer 的 ViT，同时在标签传播结束后增加伪标签选择模块以提高伪标签的质量，被评为北京市级大学生创新创业项目。
+这些科研经历不仅让我体验了从理论到实践的完整科研过程，通过大量文献阅读、团队讨论及深度学习编程实践，也为我在未来的项目研究中奠定了坚实基础，这也激发了我对人工智能领域的深厚兴趣，期望在研究生阶段能在这个领域进一步深化探索。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>备注</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre></pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>个人签字</td>
+								<td class="td-lotfont" colspan="8">
+									<div>
+										我承诺：所填上述内容均真实、有效，如有不实，后果自负。
+										<br>
+	     								我保证：报名前已与所在大学和家属沟通，且履行请假等相关手续，遵守所在大学的相关规章制度，出现任何责任事件由我个人承担。
+										<br>
+									</div>
+									<br>
+									<div class="td-qz">
+										<p class=MsoNormal align=center style='text-align: center; layout-grid-mode: char'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp; </span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>签字：</span>
+										</p>
+										<p class=MsoNormal align=center style='text-align: center'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>年</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>月</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>日</span>
+										</p>
+									</div>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				<br /> 注：是否需要提交其他材料等具体要求请以各夏令营承办单位通知为准。
+			</div>
+				</div>
+				</div>
+	       </div>
+	    </div> 
+	</div>
+
+</div>
+</body>
